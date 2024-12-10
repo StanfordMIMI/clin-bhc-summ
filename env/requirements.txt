@@ -1,0 +1,17 @@
+transformers==4.31.0
+accelerate>=0.20.3
+git+https://github.com/huggingface/peft.git
+datasets
+bitsandbytes
+einops
+wandb
+tensorboard
+evaluate
+f1chexbert
+radgraph
+rouge_score
+bert_score
+trl
+xformers
+safetensors>=0.3.1
+tokenizers>=0.13.3
