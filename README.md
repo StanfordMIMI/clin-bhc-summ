@@ -1,4 +1,4 @@
-# Hospital Course Summarization with Adapted LLMs | JAMIA 2024
+# Hospital Course Summarization with LLMs | JAMIA 2024
 
 - <b> Title: </b>[A Dataset and Benchmark for Hospital Course Summarization with Adapted Large Language Models](https://arxiv.org/pdf/2403.05720)<br>
 - <b>Authors: </b>[Asad Aali](https://asadaali.com/), Dave Van Veen, Yamin Ishraq Arefeen, Jason Hom, Christian Bluethgen, Eduardo Pontes Reis, Sergios Gatidis, Namuun Clifford, Joseph Daws, Arash S Tehrani, Jangwon Kim, Akshay S Chaudhari<br>
