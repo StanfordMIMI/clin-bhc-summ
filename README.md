@@ -40,7 +40,7 @@ Download the pre-processed MIMIC-IV-BHC dataset, published on [PhysioNet](https:
 ## Citation
 ```
 @article{aali2024benchmark,
-  title={A Dataset and Benchmark for Hospital Course Summarization with Adapted Large Language Models},
+  title={A dataset and benchmark for hospital course summarization with adapted large language models},
   author={Aali, Asad and Van Veen, Dave and Arefeen, Yamin Ishraq and Hom, Jason and Bluethgen, Christian and Reis, Eduardo Pontes and Gatidis, Sergios and Clifford, Namuun and Daws, Joseph and Tehrani, Arash S and Chaudhari, Akshay S.},
   journal={Journal of the American Medical Informatics Association},
   year={2024},
